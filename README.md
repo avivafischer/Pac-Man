@@ -11,3 +11,10 @@
 <h2>Roadmap:</h2>
 
 <p>Future improvements are to attempt simulating an actual Pac Man game.</p>
+
+## License Information
+<p>Licensed under the <a href="https://github.com/avivafischer/Pac-Man/blob/main/LICENSE">MIT License</a></p>
+
+<br>
+
+<p><a href="https://avivafischer.github.io/Pac-Man/">View Deployment</a></p>
